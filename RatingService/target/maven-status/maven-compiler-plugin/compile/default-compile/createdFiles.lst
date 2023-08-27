@@ -1,0 +1,7 @@
+com\lmwv\rating\service\RatingServiceApplication.class
+com\lmwv\rating\service\repositories\RatingRepository.class
+com\lmwv\rating\service\entities\Rating.class
+com\lmwv\rating\service\controller\RatingController.class
+com\lmwv\rating\service\impl\RatingServiceImpl.class
+com\lmwv\rating\service\entities\Rating$RatingBuilder.class
+com\lmwv\rating\service\services\RatingService.class
